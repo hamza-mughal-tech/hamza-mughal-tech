@@ -1,13 +1,4 @@
 ## Hi, I’m Muhammad Hamza 👋
-
-Application & Systems Support Engineer (L2/L3) | Linux | VMS | SQL | Enterprise IT
-
-I’m an Application & Systems Support Engineer (L2/L3) with 4+ years of experience
-supporting enterprise production environments.
-
-My work focuses on keeping systems stable, diagnosing incidents,
-supporting customers, and collaborating with development teams to resolve issues.
-
 ---
 
 ### 🔧 What I work on
